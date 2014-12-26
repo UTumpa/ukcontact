@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>Add Academic Information</h1>
+<form action="adda.php" method="post">
+
+    <div>
+        <label>Level Education </label>
+        <select name="level_edu">
+            <option value="Diploma" selected="selected">Diploma</option>
+            <option value="Bachelor/Honors">Bachelor/Honors</option>
+            <option value="Masters">Masters</option>
+        </select>
+    </div>
+
+    <br />
+    <div>
+        <label>Exam Title *</label>
+
+        <input type="text" name="e_title" />
+    </div>
+    <br />
+
+    <div>
+        <label>Group/Subject *</label>
+
+        <input type="text" name="group_sub" />
+    </div>
+
+<br />
+    <div>
+        <label>Institution *</label>
+        <select name="ins_ion">
+            <option value="select institute" selected="selected">--select institute--</option>
+            <option value="UAP">UAP</option>
+            <option value="DU">DU</option>
+            <option value="North">North</option>
+            <option value="South">South</option>
+        </select>
+    </div>
+    <br />
+
+    <div>
+        <label>Result Type *</label>
+        <select name="r_type">
+            <option value="Grade" selected="selected">Grade</option>
+            <option value="Other">Other</option>
+
+        </select>
+    </div>
+    <br />
+    <div>
+
+    <label>Result *</label>
+
+    <input type="text" name="result" />
+
+    <label>Scale *</label>
+    <input type="text" name="scale" />
+   </div>
+    <br />
+
+    <div>
+        <label>Passing Year *</label>
+
+        <input type="text" name="pass_yr" />
+    </div>
+
+    <br />
+    <div>
+        <label>Duration (in year) </label>
+
+        <input type="text" name="dur_yr" />
+    </div>
+
+    <br />
+
+        <label>Achievement </label>
+
+        <textarea name="achieve" rows="5" cols="40"></textarea>
+
+
+    <button type="submit" name="submit" style="width: 210px;">Submit</button>
+
+
+
+
+
+
+</body>
+</html>
