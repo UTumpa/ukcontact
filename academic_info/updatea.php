@@ -1,13 +1,13 @@
 <?php
 
 $id = $_POST['id'];
-$firstName = $_POST['firstName'];
-$lastName = $_POST['lastName'];
+$level_edu = $_POST['level_edu'];
+$e_title = $_POST['e_title'];
 $link = mysqli_connect("localhost",
     "root",
-    "tumpa24",
+    "lict@2",
     "crud01");
-$query = "UPDATE `crud01`.`students` SET `father_name` = '".$father_name."',
-`mother_name` = '".$mother_name ."' WHERE `students`.`id` = $id;";
+echo$query = "UPDATE `academicinfo`.`information` SET `level_edu` = '".$level_edu."',
+`e_title` = '".$e_title ."' WHERE `information`.`id` = $id;";
 mysqli_query($link, $query);
-header('location:list.php');
+header('location:lista.php');
