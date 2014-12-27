@@ -35,7 +35,7 @@ $result = mysqli_query($link,$query);
         <td>Duration:</td>>
         <td>Achievement:</td>>
 
-    </tr>>
+    </tr>
 
 
     <?php
