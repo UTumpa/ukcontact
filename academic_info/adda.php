@@ -17,7 +17,7 @@ $link = mysqli_connect("localhost",
     "lict@2",
     "academicinfo");
 
-$query = "INSERT INTO `academicinfo`.`information` (`level_education` ,`exam_title` ,`group_` ,`institution` ,`result_type` ,
+echo$query = "INSERT INTO `academicinfo`.`information` (`level_education` ,`exam_title` ,`group_` ,`institution` ,`result_type` ,
 `result` ,`scale` ,`passing_year` ,`duration` ,`achievement`  )
 VALUES ('$level_education','$exam_title', '$group','$institution','$result_type','$result','$scale','$passing_year',
     '$duration','$achievement')";

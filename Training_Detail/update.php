@@ -22,15 +22,15 @@ $row = mysqli_fetch_assoc($result);
     <fieldset>
         <br />
         <div>
-            <label>ID</label>
 
+            <label>ID</label>
             <input type="text" name="id" value=<?php echo $row['id']; ?> />
         </div>
 
         <div>
             <label>Training Title *</label>
 
-            <input type="text" name="t_title" value=<?php echo $row['training_title']; ?>/>
+            <input type="text" name="t_title" value=<?php echo $row['training_title']; ?> />
         </div>
 
         <br />
@@ -45,7 +45,7 @@ $row = mysqli_fetch_assoc($result);
         <div>
             <label>Institute  *</label>
 
-            <input type="text" name="institute" value=<?php echo $row['Institute']; ?> />
+            <input type="text" name="institute" value=<?php echo $row['Institute']; ?>  />
         </div>
         <br />
 
@@ -59,7 +59,7 @@ $row = mysqli_fetch_assoc($result);
         <div>
             <label> Training Year *</label>
 
-            <input type="text" name="train_yr" value=<?php echo $row['training_year']; ?>/>
+            <input type="text" name="train_yr" value=<?php echo $row['training_year']; ?> />
         </div>
         <br />
 
@@ -67,7 +67,7 @@ $row = mysqli_fetch_assoc($result);
         <div>
             <label>Duration (in days)</label>
 
-            <input type="text" name="duration" value=<?php echo $row['duration']; ?>/>
+            <input type="text" name="duration" value=<?php echo $row['duration']; ?> />
         </div>
 
     </fieldset>
@@ -93,14 +93,14 @@ $row = mysqli_fetch_assoc($result);
         <div>
             <label> Course Title</label>
 
-            <input type="text" name="cou_title" value=<?php echo $row[' Course_title']; ?>/>
+            <input type="text" name="cou_title" value=<?php echo $row[' Course_title']; ?> />
         </div>
 
         <br />
         <div>
             <label> Trainer Detail</label>
 
-            <input type="text" name="train_detail" value=<?php echo $row[' trainer_detail']; ?>/>
+            <input type="text" name="train_detail" value=<?php echo $row[' trainer_detail']; ?> />
         </div>
 
         <br />
@@ -108,8 +108,8 @@ $row = mysqli_fetch_assoc($result);
     <br />
     <br />
 
-    <button type="submit"><h4>Submit</h4></button>
-    <button type="submit"><h4>Cancel</h4></button>
+    <button type="submit"><h4>Update</h4></button>
+
     </form>
 
 

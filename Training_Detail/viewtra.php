@@ -40,6 +40,6 @@ $row = mysqli_fetch_assoc($result);
         </tr>
 
 
-
+    <a href="listtra.php">Go to Home</a>
 
 
