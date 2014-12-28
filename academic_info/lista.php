@@ -1,12 +1,12 @@
 <?php
 
-$link = mysqli_connect("localhost","root","lict@2","academicinfo");
+include('connecta.php');
 
 
 
 $query = "select * from information;";
 
-$result = mysqli_query($link,$query);
+$result = mysqli_query($cona,$query);
 
 ?>
 <ol>
@@ -37,17 +37,17 @@ $result = mysqli_query($link,$query);
         ?>
 
         <tr>
-            <td><?php echo $row['id' ] ?></td>
-            <td><?php echo $row['academic'] ?></td>
-            <td><?php echo $row['exam_title'] ?></td>
-            <td><?php echo $row['subject' ] ?></td>
-            <td><?php echo $row['institution'] ?></td>
-            <td><?php echo $row['result_type'] ?></td>
-            <td><?php echo $row['result' ] ?></td>
-            <td><?php echo $row['scale'] ?></td>
-            <td><?php echo $row['year'] ?></td>
-            <td><?php echo $row['duration' ] ?></td>
-            <td><?php echo $row['achievement'] ?></td>
+            <td><?php echo $row['id' ]; ?></td>
+            <td><?php echo $row['academic']; ?></td>
+            <td><?php echo $row['exam_title']; ?></td>
+            <td><?php echo $row['subject' ]; ?></td>
+            <td><?php echo $row['institution']; ?></td>
+            <td><?php echo $row['result_type']; ?></td>
+            <td><?php echo $row['result' ]; ?></td>
+            <td><?php echo $row['scale']; ?></td>
+            <td><?php echo $row['year']; ?></td>
+            <td><?php echo $row['duration' ]; ?></td>
+            <td><?php echo $row['achievement']; ?></td>
             <td> <a href="updatea.php?id=<?php echo $row['id']?>">Edit</a> | <a href="deletea.php?id=<?php echo $row['id']?>">Delete</a> | <a href="viewa.php?id=<?php echo $row['id']?>">View</a></td>
         </tr>
     <?php

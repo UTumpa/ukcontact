@@ -1,13 +1,10 @@
 <?php
+include('connecta.php');
 
 $id=$_GET['id'];
-$con = mysqli_connect("localhost",
-    "root",
-    "lict@2",
-    "academicinfo");
 
 $query="DELETE FROM `academicinfo`.`information` WHERE `information`.`id` = $id";
-mysqli_query($con,$query);
+mysqli_query($cona,$query);
 header('location: lista.php');
-mysqli_close($con);
+mysqli_close($cona);
 ?>

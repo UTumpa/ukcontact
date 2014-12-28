@@ -1,4 +1,5 @@
 <?php
+include('connecta.php');
 
 
 $level_education= $_POST['level_edu'];
@@ -12,10 +13,7 @@ $passing_year = $_POST['pass_yr'];
 $duration= $_POST['dur_yr'];
 $achievement = $_POST['achieve'];
 
-$link = mysqli_connect("localhost",
-    "root",
-    "lict@2",
-    "academicinfo");
+
 
 echo$query = "INSERT INTO `academicinfo`.`information` (`level_education` ,`exam_title` ,`group_` ,`institution` ,`result_type` ,
 `result` ,`scale` ,`passing_year` ,`duration` ,`achievement`  )
@@ -23,7 +21,7 @@ VALUES ('$level_education','$exam_title', '$group','$institution','$result_type'
     '$duration','$achievement')";
 
 #var_dump($query);
-mysqli_query($link, $query) or mysql_error();
+mysqli_query($cona, $query) or mysql_error();
 
 
 header('location:lista.php');

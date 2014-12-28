@@ -1,27 +1,31 @@
 <?php
-$id = $_GET['id'];
-$link = mysqli_connect("localhost",
-    "root",
-    "lict@2",
-    "academicinfo");
-$query = "select * from information WHERE id = $id";
-$result = mysqli_query($link, $query);
-$row = mysqli_fetch_assoc($result);
+
+include('connecta.php');
+
+$id=$_POST['id'];
+$level_education= $_POST['level_edu'];
+$exam_title  = $_POST['e_title'];
+$group  = $_POST['group_sub'];
+$institution= $_POST['ins_ion'];
+$result_type  = $_POST['r_type'];
+$result = $_POST['result'];
+$scale= $_POST['scale'];
+$passing_year = $_POST['pass_yr'];
+$duration= $_POST['dur_yr'];
+$achievement = $_POST['achieve'];
+
+
+
+
+
+echo $id;
+echo$query ="UPDATE `information` SET `level_education`='$level_education' ,`exam_title`='$exam_title' ,`group_`='$group' ,`institution`='$institution' ,`result_type`='$result_type' ,
+`result`='$result' ,`scale`='$scale' ,`passing_year`='$passing_year' ,`duration`='$duration' ,`achievement`='$achievement'  WHERE `id`='$id'";
+
+
+mysqli_query($cona, $query) or mysql_error();
+
+
+/*header('location:lista.php');
 ?>
-<form action="updatea.php" method="post">
-    <label>Level Education </label>
-    <select name="level_edu" view=<?php echo $row['academic'] ?>>
-        <option value="Diploma" selected="selected">Diploma</option>
-        <option value="Bachelor/Honors">Bachelor/Honors</option>
-        <option value="Masters">Masters</option>
-    </select>
-    </div>
 
-    <br />
-    <div>
-        <label>Exam Title *</label>
-
-        <input type="text" name="e_title" view=<?php echo $row['exam_title'] ?> />
-    </div>
-    <button type="submit">Update</button>
-</form>
