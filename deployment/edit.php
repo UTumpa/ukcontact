@@ -49,6 +49,7 @@ $row = mysqli_fetch_assoc($result);
     <textarea name="responsibilities" cols="40" rows="3"><?php echo $row['responsibilities'];?></textarea>
     <br>
     <button type="submit">Update</button>
+    <a href="list.php">Go to Home</a>
 </form>
 </body>
 </html>

@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86a3b6bc-7683-4217-ac1e-2b90ccd88ed7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/academic_info/connecta.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/adda.php" afterPath="$PROJECT_DIR$/academic_info/adda.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/addict.php" afterPath="$PROJECT_DIR$/ictskill/addict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/addref.php" afterPath="$PROJECT_DIR$/reference/addref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/addtra.php" afterPath="$PROJECT_DIR$/Training_Detail/addtra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/connect.php" afterPath="$PROJECT_DIR$/Training_Detail/connect.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/connectict.php" afterPath="$PROJECT_DIR$/ictskill/connectict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/connectr.php" afterPath="$PROJECT_DIR$/reference/connectr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/createa.html" afterPath="$PROJECT_DIR$/academic_info/createa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/createict.html" afterPath="$PROJECT_DIR$/ictskill/createict.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/createref.html" afterPath="$PROJECT_DIR$/reference/createref.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/createt.html" afterPath="$PROJECT_DIR$/Training_Detail/createt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/deletea.php" afterPath="$PROJECT_DIR$/academic_info/deletea.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/deleteict.php" afterPath="$PROJECT_DIR$/ictskill/deleteict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/deleteref.php" afterPath="$PROJECT_DIR$/reference/deleteref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/deletetra.php" afterPath="$PROJECT_DIR$/Training_Detail/deletetra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/edita.php" afterPath="$PROJECT_DIR$/academic_info/edita.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/edited.php" afterPath="$PROJECT_DIR$/Training_Detail/edited.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/editref.php" afterPath="$PROJECT_DIR$/reference/editref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/lista.php" afterPath="$PROJECT_DIR$/academic_info/lista.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/listict.php" afterPath="$PROJECT_DIR$/ictskill/listict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/listref.php" afterPath="$PROJECT_DIR$/reference/listref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/listtra.php" afterPath="$PROJECT_DIR$/Training_Detail/listtra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Photo/photo.html" afterPath="$PROJECT_DIR$/Photo/photo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ukcontact.iml" afterPath="$PROJECT_DIR$/.idea/ukcontact.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/update.php" afterPath="$PROJECT_DIR$/Training_Detail/update.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/updatea.php" afterPath="$PROJECT_DIR$/academic_info/updatea.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/updated.php" afterPath="$PROJECT_DIR$/ictskill/updated.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/updateict.php" afterPath="$PROJECT_DIR$/ictskill/updateict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/updateref.php" afterPath="$PROJECT_DIR$/reference/updateref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Photo/upload.php" afterPath="$PROJECT_DIR$/Photo/upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/viewa.php" afterPath="$PROJECT_DIR$/academic_info/viewa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/viewict.php" afterPath="$PROJECT_DIR$/ictskill/viewict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/viewref.php" afterPath="$PROJECT_DIR$/reference/viewref.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/viewtra.php" afterPath="$PROJECT_DIR$/Training_Detail/viewtra.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/edit.php" afterPath="$PROJECT_DIR$/deployment/edit.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ukcontact.iws" />
@@ -71,56 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addict.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ictskill/addict.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <marker date="1419686010075" expanded="true" signature="47:249" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="updateref.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reference/updateref.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-53.125" vertical-offset="0" max-vertical-offset="1440">
-              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding>
-                <marker date="1419701775552" expanded="true" signature="62:96" placeholder="select * fro..reftable..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listref.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reference/listref.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="960">
-              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
-              <folding>
-                <marker date="1419690537232" expanded="true" signature="43:65" placeholder="select * fro..reftable..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adda.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/academic_info/adda.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7916667" vertical-offset="101" max-vertical-offset="525">
-              <caret line="8" column="21" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="updatea.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academic_info/updatea.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-61.875" vertical-offset="0" max-vertical-offset="1680">
+            <state vertical-scroll-proportion="-24.375" vertical-offset="900" max-vertical-offset="1680">
               <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding>
                 <marker date="1419756364569" expanded="true" signature="64:101" placeholder="select * fro..information..." />
@@ -132,7 +43,7 @@
       <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deployment/add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0" vertical-offset="48" max-vertical-offset="435">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="435">
               <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
               <folding>
                 <marker date="1419756696261" expanded="true" signature="436:765" placeholder="INSERT INTO ..." />
@@ -151,13 +62,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delete.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="delete.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deployment/delete.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="195">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
               <folding>
-                <marker date="1419679550000" expanded="true" signature="100:158" placeholder="DELETE FROM ..." />
+                <marker date="1419757070581" expanded="true" signature="108:174" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deployment/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6625" vertical-offset="500" max-vertical-offset="915">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+              <folding>
+                <marker date="1419757394229" expanded="true" signature="108:143" placeholder="select * fro..deploment..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewa.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/academic_info/viewa.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.041667" vertical-offset="536" max-vertical-offset="960">
+              <caret line="55" column="35" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="42" />
+              <folding>
+                <marker date="1419754189057" expanded="true" signature="83:120" placeholder="select * fro..information..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deployment/list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="18.333334" vertical-offset="500" max-vertical-offset="900">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <folding>
+                <marker date="1419757070585" expanded="true" signature="92:115" placeholder="SELECT * FRO..deploment..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deployment/update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="555">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deployment/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="930">
+              <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+              <folding>
+                <marker date="1419757070585" expanded="true" signature="108:143" placeholder="SELECT * FRO..deploment..." />
               </folding>
             </state>
           </provider>
@@ -166,18 +135,8 @@
       <file leaf-file-name="edita.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academic_info/edita.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="555">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="90" max-vertical-offset="555">
               <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="editref.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reference/editref.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="420">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -235,6 +194,11 @@
         <option value="$PROJECT_DIR$/academic_info/edita.php" />
         <option value="$PROJECT_DIR$/academic_info/updatea.php" />
         <option value="$PROJECT_DIR$/deployment/add.php" />
+        <option value="$PROJECT_DIR$/deployment/delete.php" />
+        <option value="$PROJECT_DIR$/deployment/list.php" />
+        <option value="$PROJECT_DIR$/deployment/update.php" />
+        <option value="$PROJECT_DIR$/deployment/view.php" />
+        <option value="$PROJECT_DIR$/deployment/edit.php" />
       </list>
     </option>
   </component>
@@ -489,34 +453,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1125">
-          <caret line="66" column="6" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/adda.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="555">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/lista.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1080">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/edita.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/academic_info/updatea.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
@@ -783,16 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/viewa.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.75" vertical-offset="564" max-vertical-offset="960">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-          <folding>
-            <marker date="1419754189057" expanded="true" signature="-1:-1" placeholder="select * fro..information..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ictskill/listict.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3739612" vertical-offset="0" max-vertical-offset="840">
@@ -818,7 +744,7 @@
         <state vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="960">
           <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
           <folding>
-            <marker date="1419690537232" expanded="true" signature="43:65" placeholder="select * fro..reftable..." />
+            <marker date="1419690537232" expanded="true" signature="-1:-1" placeholder="select * fro..reftable..." />
           </folding>
         </state>
       </provider>
@@ -828,7 +754,7 @@
         <state vertical-scroll-proportion="-53.125" vertical-offset="0" max-vertical-offset="1440">
           <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding>
-            <marker date="1419701775552" expanded="true" signature="62:96" placeholder="select * fro..reftable..." />
+            <marker date="1419701775552" expanded="true" signature="-1:-1" placeholder="select * fro..reftable..." />
           </folding>
         </state>
       </provider>
@@ -849,17 +775,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/edita.php">
+    <entry file="file://$PROJECT_DIR$/ictskill/addict.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="555">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1419686010075" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academic_info/updatea.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-61.875" vertical-offset="0" max-vertical-offset="1680">
+        <state vertical-scroll-proportion="-24.375" vertical-offset="900" max-vertical-offset="1680">
           <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
           <folding>
             <marker date="1419756364569" expanded="true" signature="64:101" placeholder="select * fro..information..." />
@@ -867,23 +795,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ictskill/addict.php">
+    <entry file="file://$PROJECT_DIR$/academic_info/edita.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1419686010075" expanded="true" signature="47:249" placeholder="INSERT INTO ..." />
-          </folding>
+        <state vertical-scroll-proportion="-4.375" vertical-offset="90" max-vertical-offset="555">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deployment/add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0" vertical-offset="48" max-vertical-offset="435">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="435">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding>
             <marker date="1419756696261" expanded="true" signature="436:765" placeholder="INSERT INTO ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="195">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <marker date="1419757070581" expanded="true" signature="108:174" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.333334" vertical-offset="500" max-vertical-offset="900">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <marker date="1419757070585" expanded="true" signature="92:115" placeholder="SELECT * FRO..deploment..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="555">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -895,12 +849,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deployment/delete.php">
+    <entry file="file://$PROJECT_DIR$/deployment/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="424">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="930">
+          <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
           <folding>
-            <marker date="1419679550000" expanded="true" signature="100:158" placeholder="DELETE FROM ..." />
+            <marker date="1419757070585" expanded="true" signature="108:143" placeholder="SELECT * FRO..deploment..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academic_info/viewa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.041667" vertical-offset="536" max-vertical-offset="960">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <marker date="1419754189057" expanded="true" signature="83:120" placeholder="select * fro..information..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6625" vertical-offset="500" max-vertical-offset="915">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <marker date="1419757394229" expanded="true" signature="108:143" placeholder="select * fro..deploment..." />
           </folding>
         </state>
       </provider>
