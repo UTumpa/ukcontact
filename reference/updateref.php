@@ -86,6 +86,6 @@ $row = mysqli_fetch_assoc($result);
 
 </form>
 
-
+<a href="listref.php">Go to Home</a>
 </body>
 </html>

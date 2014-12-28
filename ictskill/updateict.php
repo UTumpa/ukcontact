@@ -41,6 +41,6 @@ $row = mysqli_fetch_assoc($result);
 
         </tr>
         </form>
-
+    <a href="listict.php">Go to Home</a>
 </table>
 
