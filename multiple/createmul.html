@@ -1,0 +1,74 @@
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<form action="addmul.php" method="post">
+    <div>
+        <label>Full Name: </label>
+        <input type="text" name="full_name" />
+    </div>
+    <br>
+    <div>
+        <label>Hobby: </label>
+        <div>
+            <input type="checkbox" name="hobby_gardening" value="Gardening">Gardening<br />
+            <input type="checkbox" name="hobby_travelling" value="Travelling">Travelling<br />
+            <input type="checkbox" name="hobby_reading" value="Reading">Reading<br />
+            <input type="checkbox" name="hobby_swiming" value="Swiming">Games<br />
+        </div>
+    </div>
+    <div>
+        <label>Favourite Food: </label>
+        <div>
+            <input type="checkbox" name="food[]" value="Apple">Apple<br />
+            <input type="checkbox" name="food[]" value="Orange">Orange<br />
+            <input type="checkbox" name="food[]" value="Lichi">Lichi<br />
+            <input type="checkbox" name="food[]" value="Mango">Mango<br />
+        </div>
+    </div>
+    <br>
+    <div>
+        <label>Preferred Job Location: </label>
+        <br>
+        <div>
+            <br>
+            <select name="cities[]" multiple="multiple">
+
+                <option value="Dinajpur">Dinajpur</option>
+                <option value="Rajshahi">Rajshahi</option>
+                <option value="Borishal">Borishal</option>
+                <option value="Comilla">Comilla</option>
+                <option value="Dhaka">Dhaka</option>
+                <option value="Chittagong">Chittagong</option>
+                <option value="Khulna">Khulna</option>
+                <option value="Jshore">Jshore</option>
+                <option value="Dinajpur">Dinajpur</option>
+                <option value="Bhola">Bhola</option>
+                <option value="Patuakhali">Patuakhali</option>
+                <option value="Pirojpur">Pirojpur</option>
+                <option value="Sherpur">Sherpur</option>
+                <option value="Feni">Feni</option>
+                <option value="Gazipur">Gazipur</option>
+                <option value="Gopalganj">Gopalganj</option>
+                <option value="Rajbari">rajbari</option>
+                <option value="Rajshahi">Rajshahi</option>
+                <option value="Borishal">Borishal</option>
+                <option value="Comilla">Comilla</option>
+            </select>
+        </div>
+    </div>
+    <div>
+        <input type="hidden" name="created" />
+    </div>
+    <div>
+        <input type="hidden" name="modified" />
+    </div>
+    <div>
+        <br>
+        <input type="submit" name="submit" value="Submit">
+    </div>
+</form>
+</body>
+</html>
