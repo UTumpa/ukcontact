@@ -2,10 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86a3b6bc-7683-4217-ac1e-2b90ccd88ed7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multiple/addmul.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multiple/connectmul.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multiple/createmul.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/Admin_Login.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/now_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/photo_upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/practise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/registration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin_Login/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add.php" afterPath="$PROJECT_DIR$/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/add.php" afterPath="$PROJECT_DIR$/deployment/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/adda.php" afterPath="$PROJECT_DIR$/academic_info/adda.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/addict.php" afterPath="$PROJECT_DIR$/ictskill/addict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/addmul.php" afterPath="$PROJECT_DIR$/multiple/addmul.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/addper.php" afterPath="$PROJECT_DIR$/personal_info/addper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/addref.php" afterPath="$PROJECT_DIR$/reference/addref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/addtra.php" afterPath="$PROJECT_DIR$/Training_Detail/addtra.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/connect.php" afterPath="$PROJECT_DIR$/Training_Detail/connect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/connecta.php" afterPath="$PROJECT_DIR$/academic_info/connecta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/connectftfl.php" afterPath="$PROJECT_DIR$/personal_info/connectftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/connectict.php" afterPath="$PROJECT_DIR$/ictskill/connectict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/connectmul.php" afterPath="$PROJECT_DIR$/multiple/connectmul.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/connectr.php" afterPath="$PROJECT_DIR$/reference/connectr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactinfo.sql" afterPath="$PROJECT_DIR$/contactinfo.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/create.php" afterPath="$PROJECT_DIR$/deployment/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/createa.html" afterPath="$PROJECT_DIR$/academic_info/createa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/createict.html" afterPath="$PROJECT_DIR$/ictskill/createict.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/createmul.html" afterPath="$PROJECT_DIR$/multiple/createmul.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/createper.html" afterPath="$PROJECT_DIR$/personal_info/createper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/createref.html" afterPath="$PROJECT_DIR$/reference/createref.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/createt.html" afterPath="$PROJECT_DIR$/Training_Detail/createt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete.php" afterPath="$PROJECT_DIR$/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/delete.php" afterPath="$PROJECT_DIR$/deployment/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/deletea.php" afterPath="$PROJECT_DIR$/academic_info/deletea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/deleteftfl.php" afterPath="$PROJECT_DIR$/personal_info/deleteftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/deleteict.php" afterPath="$PROJECT_DIR$/ictskill/deleteict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/deleteref.php" afterPath="$PROJECT_DIR$/reference/deleteref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/deletetra.php" afterPath="$PROJECT_DIR$/Training_Detail/deletetra.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/edit.php" afterPath="$PROJECT_DIR$/deployment/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/edita.php" afterPath="$PROJECT_DIR$/academic_info/edita.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/edited.php" afterPath="$PROJECT_DIR$/Training_Detail/edited.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/editftfl.php" afterPath="$PROJECT_DIR$/personal_info/editftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/editref.php" afterPath="$PROJECT_DIR$/reference/editref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/encodings.xml" afterPath="$PROJECT_DIR$/multiple/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/info.html" afterPath="$PROJECT_DIR$/info.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list.php" afterPath="$PROJECT_DIR$/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/list.php" afterPath="$PROJECT_DIR$/deployment/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/lista.php" afterPath="$PROJECT_DIR$/academic_info/lista.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/listftfl.php" afterPath="$PROJECT_DIR$/personal_info/listftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/listict.php" afterPath="$PROJECT_DIR$/ictskill/listict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/listref.php" afterPath="$PROJECT_DIR$/reference/listref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/listtra.php" afterPath="$PROJECT_DIR$/Training_Detail/listtra.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/misc.xml" afterPath="$PROJECT_DIR$/multiple/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/modules.xml" afterPath="$PROJECT_DIR$/multiple/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/multiple.iml" afterPath="$PROJECT_DIR$/multiple/.idea/multiple.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Photo/photo.html" afterPath="$PROJECT_DIR$/Photo/photo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/multiple/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ukcontact.iml" afterPath="$PROJECT_DIR$/.idea/ukcontact.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/update.php" afterPath="$PROJECT_DIR$/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/update.php" afterPath="$PROJECT_DIR$/Training_Detail/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/update.php" afterPath="$PROJECT_DIR$/deployment/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/updatea.php" afterPath="$PROJECT_DIR$/academic_info/updatea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/updated.php" afterPath="$PROJECT_DIR$/ictskill/updated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/updateftfl.php" afterPath="$PROJECT_DIR$/personal_info/updateftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/updateict.php" afterPath="$PROJECT_DIR$/ictskill/updateict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/updateref.php" afterPath="$PROJECT_DIR$/reference/updateref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Photo/upload.php" afterPath="$PROJECT_DIR$/Photo/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/vcs.xml" afterPath="$PROJECT_DIR$/multiple/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view.php" afterPath="$PROJECT_DIR$/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployment/view.php" afterPath="$PROJECT_DIR$/deployment/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academic_info/viewa.php" afterPath="$PROJECT_DIR$/academic_info/viewa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_info/viewftfl.php" afterPath="$PROJECT_DIR$/personal_info/viewftfl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ictskill/viewict.php" afterPath="$PROJECT_DIR$/ictskill/viewict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reference/viewref.php" afterPath="$PROJECT_DIR$/reference/viewref.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Training_Detail/viewtra.php" afterPath="$PROJECT_DIR$/Training_Detail/viewtra.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple/.idea/workspace.xml" afterPath="$PROJECT_DIR$/multiple/.idea/workspace.xml" />
     </list>
     <ignored path="ukcontact.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,24 +119,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addmul.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addmul.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple/addmul.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56284153" vertical-offset="186" max-vertical-offset="810">
+            <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="810">
               <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
               <folding>
                 <element signature="e#6#55#0#PHP" expanded="true" />
-                <marker date="1420101597891" expanded="true" signature="995:1179" placeholder="INSERT INTO ..." />
+                <marker date="1420254548000" expanded="true" signature="995:1179" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createmul.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiple/createmul.html">
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625" vertical-offset="165" max-vertical-offset="1185">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="32" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1140">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1420254018000" expanded="true" signature="947:1150" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.029411765" vertical-offset="0" max-vertical-offset="510">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="now_login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/now_login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo_upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/photo_upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practise.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/practise.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="480">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin_Login/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,7 +217,7 @@
       <file leaf-file-name="connectmul.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple/connectmul.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
@@ -76,66 +237,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Training_Detail/deletetra.php" />
-        <option value="$PROJECT_DIR$/Training_Detail/listtra.php" />
-        <option value="$PROJECT_DIR$/ICT Skills/createict.html" />
-        <option value="$PROJECT_DIR$/ICT Skills/addict.php" />
-        <option value="$PROJECT_DIR$/ICT Skills/connectict.php" />
-        <option value="$PROJECT_DIR$/ictskill/connectict.php" />
-        <option value="$PROJECT_DIR$/ictskill/listict.php" />
-        <option value="$PROJECT_DIR$/ictskill/deleteict.php" />
-        <option value="$PROJECT_DIR$/ictskill/createict.html" />
-        <option value="$PROJECT_DIR$/ictskill/viewict.php" />
-        <option value="$PROJECT_DIR$/Training_Detail/viewtra.php" />
-        <option value="$PROJECT_DIR$/Training_Detail/edited.php" />
-        <option value="$PROJECT_DIR$/ictskill/updated.php" />
-        <option value="$PROJECT_DIR$/ictskill/addict.php" />
-        <option value="$PROJECT_DIR$/Training_Detail/update.php" />
-        <option value="$PROJECT_DIR$/reference/connectr.php" />
-        <option value="$PROJECT_DIR$/reference/createref.html" />
-        <option value="$PROJECT_DIR$/reference/listref.php" />
-        <option value="$PROJECT_DIR$/reference/addref.php" />
-        <option value="$PROJECT_DIR$/reference/viewref.php" />
-        <option value="$PROJECT_DIR$/reference/deleteref.php" />
-        <option value="$PROJECT_DIR$/reference/editref.php" />
-        <option value="$PROJECT_DIR$/academic_info/createa.html" />
-        <option value="$PROJECT_DIR$/Photo/photo.html" />
-        <option value="$PROJECT_DIR$/Photo/upload.php" />
-        <option value="$PROJECT_DIR$/academic_info/connecta.php" />
-        <option value="$PROJECT_DIR$/academic_info/adda.php" />
-        <option value="$PROJECT_DIR$/academic_info/deletea.php" />
-        <option value="$PROJECT_DIR$/academic_info/viewa.php" />
-        <option value="$PROJECT_DIR$/academic_info/lista.php" />
-        <option value="$PROJECT_DIR$/academic_info/edita.php" />
-        <option value="$PROJECT_DIR$/academic_info/updatea.php" />
-        <option value="$PROJECT_DIR$/deployment/add.php" />
-        <option value="$PROJECT_DIR$/deployment/delete.php" />
-        <option value="$PROJECT_DIR$/deployment/list.php" />
-        <option value="$PROJECT_DIR$/deployment/update.php" />
-        <option value="$PROJECT_DIR$/deployment/edit.php" />
-        <option value="$PROJECT_DIR$/deployment/view.php" />
-        <option value="$PROJECT_DIR$/ictskill/updateict.php" />
-        <option value="$PROJECT_DIR$/reference/updateref.php" />
-        <option value="$PROJECT_DIR$/personal_info/connectftfl.php" />
-        <option value="$PROJECT_DIR$/personal_info/listftfl.php" />
-        <option value="$PROJECT_DIR$/personal_info/deleteftfl.php" />
-        <option value="$PROJECT_DIR$/personal_info/viewftfl.php" />
-        <option value="$PROJECT_DIR$/personal_info/createper.html" />
-        <option value="$PROJECT_DIR$/personal_info/addper.php" />
-        <option value="$PROJECT_DIR$/personal_info/editftfl.php" />
-        <option value="$PROJECT_DIR$/personal_info/updateftfl.php" />
-        <option value="$PROJECT_DIR$/multiple/connectmul.php" />
-        <option value="$PROJECT_DIR$/multiple/createmul.html" />
-        <option value="$PROJECT_DIR$/multiple/addmul.php" />
+        <option value="$PROJECT_DIR$/Admin_Login/check_user.php" />
+        <option value="$PROJECT_DIR$/Admin_Login/login.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1215" />
-    <option name="height" value="1028" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -196,6 +308,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ukcontact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ukcontact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin_Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -253,18 +379,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
+    <frame x="65" y="24" width="1215" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16707818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16625515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35622317" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3550885" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -316,63 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Training_Detail/addtra.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="195">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.784" vertical-offset="500" max-vertical-offset="1125">
-          <caret line="66" column="6" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Photo/photo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Photo/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ictskill/updated.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="345">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/connecta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_info/deletea.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37313432" vertical-offset="0" max-vertical-offset="402">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ictskill/viewict.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33582088" vertical-offset="0" max-vertical-offset="570">
@@ -573,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="660">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="829" max-vertical-offset="2220">
           <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
           <caret line="1" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.25" vertical-offset="120" max-vertical-offset="2010">
           <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-          <folding>
-            <marker date="1420083197055" expanded="true" signature="-1:-1" placeholder="select * fro..user..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -622,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="765">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <marker date="1420083197055" expanded="true" signature="-1:-1" placeholder="select * fro..user..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,9 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.25" vertical-offset="90" max-vertical-offset="1035">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1420083197055" expanded="true" signature="-1:-1" placeholder="select * fro..user..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.082720585" vertical-offset="135" max-vertical-offset="1140">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05514706" vertical-offset="0" max-vertical-offset="544">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,13 +720,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28248587" vertical-offset="0" max-vertical-offset="531">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple/createmul.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625" vertical-offset="165" max-vertical-offset="1185">
+        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1343">
           <caret line="36" column="30" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="32" />
           <folding />
         </state>
@@ -680,7 +733,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple/connectmul.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="136">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
@@ -688,12 +741,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple/addmul.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56284153" vertical-offset="186" max-vertical-offset="810">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="810">
           <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
           <folding>
             <element signature="e#6#55#0#PHP" expanded="true" />
-            <marker date="1420101597891" expanded="true" signature="995:1179" placeholder="INSERT INTO ..." />
+            <marker date="1420254548000" expanded="true" signature="995:1179" placeholder="INSERT INTO ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/now_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/photo_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/practise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1420254018000" expanded="true" signature="947:1150" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin_Login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029411765" vertical-offset="0" max-vertical-offset="510">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
