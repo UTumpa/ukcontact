@@ -13,8 +13,8 @@
     <label> Password:</label>
     <input type="password" name="password" /><br><br>
 
-    <button type="submit" onclick="location.href='dashboard.php'" >Login</button><br><br>
-    <a href="index.php"> Go Back To Register Page </a>
+    <button type="submit" onclick="location.href='#'" >Login</button><br><br>
+    <a href="index.php"> Go Back Home Page </a>
 
 
 

@@ -50,7 +50,7 @@ $Modifieddate  = $_POST['modified_date'];
 
 $link = mysqli_connect("localhost",
     "root",
-    "",
+    "lict@2",
     "admin_login") or die('cannot connect');
 
 

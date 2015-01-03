@@ -1,6 +1,6 @@
 <form action="add.php" method="post">
 
-    <h1> User's Information:</h1>
+    <h2> Required Information:</h2>
 
     <label>Full Name:</label>
     <input type="text" name="full_name" /><br><br>
